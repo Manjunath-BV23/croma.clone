@@ -29,6 +29,26 @@
   <li>Node Js</li>
 </ul>
 
+# Features
+1. You will be able to create your account using login and signup option, used API calls for validating user credentials.
+
+2. Used Reusable Components in landing page such that it can be reused in any other pages easily without repeatation.
+
+3. You can choose a product which you want to buy and add to cart section.
+
+4. One can Sort and Filter the product according to the prices and categories of different products.
+
+5. User can also select and remove items from cart section and make payment through card.
+
+6. All the data is stored in the localStorage of the User. 
+
+## Instructions to Run the Code 
+
+- Clone my repository `https://github.com/Manjunath-BV23/croma.clone.git`
+- Open that code in your VS code `index.html`
+- Open the `index.html` on Live server
+- Then you can Navigate through other pages from Landing page like `signin.html`, `cart.html`, `product.html` etc.
+
 <h2>Creators</h2>
 <ul>
   <li>Manjunath B V</li>
